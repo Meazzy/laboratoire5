@@ -193,7 +193,7 @@ Testez différents délais en utilisant votre navigateur :
 - `http://localhost:8080/store-manager-api/test/slow/2` 
 - `http://localhost:8080/store-manager-api/test/slow/10` 
 
-> 💡 **Question 5** : Que se passe-t-il dans le navigateur quand vous faites une requête avec un délai supérieur au timeout configuré (5 secondes) ? Quelle est l'importance du timeout dans une architecture de microservices ? Justifiez votre réponse avec des exemples pratiques.
+> 💡 **Question 6** : Que se passe-t-il dans le navigateur quand vous faites une requête avec un délai supérieur au timeout configuré (5 secondes) ? Quelle est l'importance du timeout dans une architecture de microservices ? Justifiez votre réponse avec des exemples pratiques.
 
 ### 7. Éxécutez un test de charge
 Éxécutez un test de charge sur l'application Store Manager en utilisant Locust. Suivez les mêmes instructions que celles du laboratoire 4, activité 5. Testez la création d'une commande et notez vos observations sur les performances dans le rapport.
